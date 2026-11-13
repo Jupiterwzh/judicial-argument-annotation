@@ -1,0 +1,17 @@
+{
+  "default": {
+    "total": 1500,
+    "section": 1000,
+    "paragraph": 500
+  },
+  "docs": {
+    "total": 3000,
+    "section": 1800,
+    "paragraph": 500
+  },
+  "docs/spec": {
+    "total": 6000,
+    "section": 1800,
+    "paragraph": 500
+  }
+}
